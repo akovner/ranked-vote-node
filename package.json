@@ -2,7 +2,7 @@
   "name": "ranked-vote-node",
   "version": "1.0.0",
   "description": "A collection of ranked voting aggregation methods",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "npm test"
   },
